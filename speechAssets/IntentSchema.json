@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "intent": "NumberAttendeesIntent",
+      "slots": []
+    },
+    {
+      "intent": "WhatAttendeesIntent",
+      "slots": []
+    },
+    {
+      "intent": "WhoAmIIntent",
+      "slots": []
+    },
+    {
+      "intent": "StartRecordIntent",
+      "slots": []
+    },
+    {
+      "intent": "StopRecordIntent",
+      "slots": []
+    },
+    {
+      "intent": "MuteIntent",
+      "slots": []
+    },
+        {
+      "intent": "UnmuteIntent",
+      "slots": []
+    },
+    {
+      "intent": "RunningLateIntent",
+      "slots": []
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}

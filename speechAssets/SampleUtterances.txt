@@ -1,0 +1,101 @@
+NumberAttendeesIntent how many people are in my room
+NumberAttendeesIntent how many folks are in my room
+NumberAttendeesIntent how many attendees are in my room
+
+WhatAttendeesIntent who is in my room
+WhatAttendeesIntent what people are in my room
+WhatAttendeesIntent what folks are in my room
+WhatAttendeesIntent what attendees are in my room
+WhatAttendeesIntent who are the people in my room
+WhatAttendeesIntent who are the folks in my room
+WhatAttendeesIntent who are the attendees in my room
+WhatAttendeesIntent who is in my meeting
+WhatAttendeesIntent what people are in my meeting
+WhatAttendeesIntent what folks are in my meeting
+WhatAttendeesIntent what attendees are in my meeting
+WhatAttendeesIntent who are the people in my meeting
+WhatAttendeesIntent who are the folks in my meeting
+WhatAttendeesIntent who are the attendees in the meeting
+WhatAttendeesIntent who is in the meeting
+WhatAttendeesIntent what people are in the meeting
+WhatAttendeesIntent what folks in the meeting
+WhatAttendeesIntent what attendees are in the meeting
+WhatAttendeesIntent who are the people in the meeting
+WhatAttendeesIntent who are the folks in the meeting
+WhatAttendeesIntent who are the attendees in the meeting
+
+WhoAmIIntent who am I
+WhoAmIIntent who I am
+WhoAmIIntent who I is
+WhoAmIIntent who is signed on
+WhoAmIIntent who is signed in
+WhoAmIIntent who is logged in
+WhoAmIIntent who is logged on
+WhoAmIIntent what is my name
+
+StartRecordIntent start recording
+StartRecordIntent start recording call
+StartRecordIntent start recording the call
+StartRecordIntent start recording my call
+StartRecordIntent start recording meeting
+StartRecordIntent start recording the meeting
+StartRecordIntent start recording my meeting
+StartRecordIntent start recording room
+StartRecordIntent start recording the room
+StartRecordIntent start recording my room
+StartRecordIntent begin recording
+StartRecordIntent begin recording call
+StartRecordIntent begin recording the call
+StartRecordIntent begin recording my call
+StartRecordIntent begin recording meeting
+StartRecordIntent begin recording the meeting
+StartRecordIntent begin recording my meeting
+StartRecordIntent begin recording room
+StartRecordIntent begin recording the room
+StartRecordIntent begin recording my room
+StartRecordIntent record
+StartRecordIntent record it
+StartRecordIntent record meeting
+StartRecordIntent record my meeting
+StartRecordIntent record the meeting
+StartRecordIntent record room
+StartRecordIntent record the room
+StartRecordIntent record my room
+StartRecordIntent record call
+StartRecordIntent record the call
+StartRecordIntent record my call
+
+StopRecordIntent stop recording
+StopRecordIntent end recording
+StopRecordIntent finish recording
+
+RunningLateIntent im running late
+RunningLateIntent i am running late
+RunningLateIntent running late message
+RunningLateIntent send a running late message
+RunningLateIntent send running late message
+RunningLateIntent add a running late message
+RunningLateIntent add running late message
+
+MuteIntent mute me
+MuteIntent mute my audio
+
+UnmuteIntent unmute me
+UnmuteIntent unmute my audio
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent to help
+HelpIntent to help me
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me
